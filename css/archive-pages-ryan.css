@@ -397,7 +397,7 @@ model-viewer#reveal {
 
 @media screen and (max-width: 991px) {
   .navigation-menu {
-    background-color: #3b99d9;
+    background-color: #7cc8fa;
   }
 
   .navigation-link {
@@ -409,7 +409,7 @@ model-viewer#reveal {
   }
 
   .hamburger-button.w--open {
-    background-color: #3b99d9;
+    background-color: #7cc8fa;
   }
 
   .hero-section.centered {

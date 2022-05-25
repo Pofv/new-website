@@ -142,9 +142,11 @@ model-viewer#reveal {
 
 .stock-report {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   flex-direction: row;
+  margin: 10px;
 }
 
 .button {
